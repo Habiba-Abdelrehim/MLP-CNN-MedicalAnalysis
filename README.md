@@ -3,7 +3,7 @@ This project contains an in-depth implementation and comparison of two deep lear
 
 ## Project Overview
 1. **MLPs:**
-   - Built from scratch with regularization techniques (e.g., L1/L2) to enhance sparsity and prevent overfitting.
+   - Built from scratch with regularization techniques to enhance sparsity and prevent overfitting.
    - Incorporated normalization strategies to stabilize training and improve convergence.
 2. **CNNs:**
    - Custom convolutional layers implemented for efficient feature extraction.
